@@ -1,0 +1,1 @@
+The Game works best full screen. Thanks for playing!
